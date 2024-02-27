@@ -57,4 +57,5 @@ class TestGitHubAPI(unittest.TestCase):
 
 
 if __name__ == '__main__':
+    # start test
     unittest.main()
